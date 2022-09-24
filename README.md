@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @eltunomientescabra
-- 👀 I’m interested in learn js
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on discord
-
+<img src="https://discordapp.com/api/guilds/835595324235317288/widget.png?style=banner3" alt="Discord Banner 3"/></p>
